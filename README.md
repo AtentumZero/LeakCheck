@@ -1,10 +1,11 @@
 <b>leakcheck</b>
 
-Bash script to check an email address or username against the haveibeenpwned.com database
-Results will be listed if an address or username has been included in a major data breach
-If results are found, then an option to save a results file with details of the breach will be displayed
+Bash script to check an email address or username against the haveibeenpwned.com database. 
+
+Results will be listed if an address or username has been included in a major data breach. If results are found, then an option to save a results file with details of the breach will be displayed.
 
 Keep in mind. Repeated use in a short period of time may trigger haveibeenpwned.com to ratelimit you.
+
 
 <b>Example use:</b>
 
