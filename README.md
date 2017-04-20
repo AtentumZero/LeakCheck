@@ -6,6 +6,7 @@ Results will be listed if an address or username has been included in a major da
 
 Keep in mind. Repeated use in a short period of time may trigger haveibeenpwned.com to ratelimit you.
 
+Compatible with POSIX systems - Linux, BSD, Solaris etc.
 
 <b>Example use:</b>
 
