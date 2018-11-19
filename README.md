@@ -1,4 +1,4 @@
-<b>leakcheck</b>
+## Leakcheck
 
 Bash script to check an email address or username against the haveibeenpwned.com database. 
 
@@ -8,9 +8,9 @@ Keep in mind. Repeated use in a short period of time may trigger haveibeenpwned.
 
 Compatible with POSIX systems - Linux, BSD, Solaris etc.
 
-<b>Example use:</b>
+## Example use:
 
-<i>
+`
 ./leakcheck.sh
 
 Please enter an email address or username...
@@ -28,4 +28,4 @@ Do you want further details? (y/n)
 USERINPUT
 
 Further details saved into Breach_YOURUSERNAME.txt file
-</i>
+`
