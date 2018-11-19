@@ -10,22 +10,20 @@ Compatible with POSIX systems - Linux, BSD, Solaris etc.
 
 ## Example use:
 
-`
-./leakcheck.sh
+`./leakcheck.sh`
 
-Please enter an email address or username...
+`Please enter an email address or username...`
 
-USERINPUT
+`USERINPUT`
 
-Processing inputted data, please wait...
+`Processing inputted data, please wait...`
  
-That address/username is listed in the following known data breach(es):
+`That address/username is listed in the following known data breach(es):`
 
-majordatabreach
+`majordatabreach`
 
-Do you want further details? (y/n)
+`Do you want further details? (y/n)`
 
-USERINPUT
+`USERINPUT`
 
-Further details saved into Breach_YOURUSERNAME.txt file
-`
+`Further details saved into Breach_YOURUSERNAME.txt file`
