@@ -11,7 +11,7 @@ Compatible with POSIX systems - Linux, BSD, Solaris etc.
 ## Example use:
 
 `./leakcheck.sh`
-` `
+
 `Please enter an email address or username...`
 
 `USERINPUT`
