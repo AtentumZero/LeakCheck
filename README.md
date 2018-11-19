@@ -11,11 +11,19 @@ Compatible with POSIX systems - Linux, BSD, Solaris etc.
 ## Example use:
 
 `./leakcheck.sh`
+
 `Please enter an email address or username...`
+
 `USERINPUT`
+
 `Processing inputted data, please wait...`
+
 `That address/username is listed in the following known data breach(es):`
+
 `majordatabreach`
+
 `Do you want further details? (y/n)`
+
 `USERINPUT`
+
 `Further details saved into Breach_YOURUSERNAME.txt file`
