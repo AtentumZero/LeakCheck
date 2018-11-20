@@ -1,4 +1,4 @@
-## Leakcheck
+## LeakCheck
 
 Bash script to check an email address or username against the haveibeenpwned.com database. 
 
