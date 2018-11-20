@@ -8,7 +8,7 @@ Keep in mind. Repeated use in a short period of time may trigger haveibeenpwned.
 
 Compatible with POSIX systems - Linux, BSD, Solaris etc.
 
-## Example use:
+## Example usage:
 
 `./leakcheck.sh`
 
