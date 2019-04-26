@@ -37,6 +37,5 @@ else
 	echo " "	
 	echo "No details saved. Quitting..."	
 	exit 1
-    fi
-	    
+    fi	    
 fi
